@@ -1,0 +1,25 @@
+Phonebook App:
+Phonebook App is a simple web application under the concept of Doublt Linked List that allows users to manage their contacts. Users can add new contacts with names, phone numbers, and emails, and view the added contacts in a list.
+
+Technologies Used:
+HTML
+CSS
+JavaScript
+
+Features:
+Add Contact: Users can input contact details (name, phone number, email) and add new contacts to the phonebook.
+Display Contacts: The added contacts are displayed in a list format for easy reference.
+
+How to Use:
+Clone the repository to your local machine using the following command:
+git clone <repository-url>
+Open index.html in your web browser.
+Enter contact details (name, phone number, email) in the input fields.
+Click the "Add Contact" button to add the contact to the phonebook.
+The added contacts will be displayed below the input section.
+
+Contributing:
+Contributions are welcome! If you find any bugs or have improvements to suggest, please create a new issue or open a pull request.
+
+License:
+This project is licensed under the MIT License - see the LICENSE file for details.
